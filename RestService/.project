@@ -3,6 +3,7 @@
 	<name>RestService</name>
 	<comment></comment>
 	<projects>
+		<project>sharedResource</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
